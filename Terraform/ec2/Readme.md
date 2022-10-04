@@ -12,4 +12,3 @@
      
 ## Delete the infrastructure
      terraform destroy
-
